@@ -3,9 +3,9 @@ Autore: Alessio Mazzetto
 
 ## Introduzione
 
-I risultati del primo Homework di Information Retrieval (2018-2019) sono riportati all'interno della repository. Sono stati testati e valutati diversi modelli di reperimento dell'informazione. Per maggiori dettagli sulla sperimentazione si rimanda al report in '/homework1.pdf'. I risultati degli esperimenti sono disponibili nella cartella '/terrier-core-4.4/results'. In quella cartella, si possono trovare anche i file in formato ".settings" che descrivono le impostazioni usate per gli esperimenti. I grafici sono disponibili nella cartella '/terrier-core-4.4/graphs'.
+I risultati del primo Homework di Information Retrieval (2018-2019) sono riportati all'interno della repository. Sono stati testati e valutati diversi modelli di reperimento dell'informazione. Per maggiori dettagli sulla sperimentazione si rimanda al report in '/Mazzetto_HW1_IR.pdf'. I risultati degli esperimenti sono disponibili nella cartella '/terrier-core-4.4/results'. In quella cartella, si possono trovare anche i file in formato ".settings" che descrivono le impostazioni usate per gli esperimenti. I grafici sono disponibili nella cartella '/terrier-core-4.4/graphs'.
 
-## Dettagli sulla sperimentazione 
+## Dettagli sulla sperimentazione
 
 Gli script sono basati sul filesystem dell'autore, per essere riutilizzati devono essere cambiati i percorsi assoluti al loro interno.
 
